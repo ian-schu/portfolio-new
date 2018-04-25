@@ -99,7 +99,7 @@ a:hover {
 }
 
 .section__content {
-	font-size: 5vmin;
+	font-size: 4vmin;
 	font-family: 'Titillium Web', sans-serif;
 	display: flex;
 	margin: 0 auto;
@@ -297,7 +297,7 @@ a:hover {
 	}
 	.greeting__title {
 		font-size: 14vmin;
-		line-height: 10vmin;
+		line-height: 13vmin;
 	}
 
 	.greeting__blurb {
